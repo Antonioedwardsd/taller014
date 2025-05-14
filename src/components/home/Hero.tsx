@@ -5,8 +5,8 @@ import { useState, useEffect } from "react";
 // Array de imágenes para el hero
 const heroImages = [
 	"/images/movistar-1.png",
-	"/images/photos/arica-city-center/arica-1.jpg",
-	"/images/photos/colegio/colegio-4.jpg",
+	"/images/photos/ARICA-CITY/arica-1.jpg",
+	"/images/photos/COLEGIO/COLEGIO-4.jpg",
 ];
 
 export function Hero() {
